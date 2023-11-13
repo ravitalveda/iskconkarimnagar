@@ -35,7 +35,7 @@
 			}, 100);
 		});
 
-	// Dropdowns.
+	// About uss.
 		$('#nav > ul').dropotron({
 			mode: 'fade',
 			speed: 350,
